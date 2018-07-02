@@ -1,0 +1,25 @@
+.bg-dark-blue {
+    background: #001d4f;
+}
+.navbar-nav .nav-link {
+    color: white;
+}
+.navbar-brand {
+    background: yellow;
+}
+.box {
+    color: white;
+    min-height: 124.1px;
+}
+.bg-black {
+    background: black;
+}
+.bg-grey {
+    background: grey;
+}
+.jumbotron {
+    background: url('https://esports-assets.s3.amazonaws.com/production/files/DevBlog/Header.jpg');
+    color: white;
+    background-size: cover;
+    background-position: center;
+}
